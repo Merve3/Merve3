@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Merve</h1>
-<h3 align="center">A passionate DevOps Engineer from Istanbul</h3>
+<h3 align="center">A DevOps Engineer from Istanbul</h3>
 
 ## ![](https://komarev.com/ghpvc/?username=Merve3&style=flat-square)
 
